@@ -24,7 +24,7 @@ This is a queuing model in which the arrival is Marcovian and departure distribu
 ## Program
 ```
 NAME: MADHANRAJ P 
-REGISTER NO:-212223220052
+REGISTER NO: 212223220052
 ```
 
 
