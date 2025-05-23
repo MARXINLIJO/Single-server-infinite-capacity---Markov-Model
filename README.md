@@ -23,8 +23,8 @@ This is a queuing model in which the arrival is Marcovian and departure distribu
 
 ## Program
 ```
-NAME: MADHANRAJ P 
-REGISTER NO: 212223220052
+Developed by : MARXIN LIJO M
+Register number : 212223240085
 ```
 
 
